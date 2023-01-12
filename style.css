@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+#naambox {
+    display: inline-block;
+}
+input[type=text]{
+    height: 50px;
+    font-size: 30px;
+}
+input[type=date]{
+    height: 50px;
+    font-size: 30px;
+}
+#leeftijd {
+    width: 150px;
+}
+#tussen {
+    width: 150px;
+}
+label {
+    font-size: 30px;
+}
